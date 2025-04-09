@@ -12,7 +12,6 @@ main {
 
 .flex-container {
   display: flex;
-  background-color: DodgerBlue;
   padding: 10px 20px;
   margin: 20px;
   flex-wrap: wrap;
